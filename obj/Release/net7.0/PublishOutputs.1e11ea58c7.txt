@@ -1,0 +1,7 @@
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\SampleAppNetCore.exe
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\SampleAppNetCore.dll
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\SampleAppNetCore.deps.json
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\SampleAppNetCore.runtimeconfig.json
+C:\Users\roleite\source\repos\SampleAppNetCore\SampleAppNetCore\obj\Release\net7.0\PubTmp\Out\SampleAppNetCore.pdb
